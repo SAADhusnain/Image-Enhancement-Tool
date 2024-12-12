@@ -1,5 +1,5 @@
 # Image Enhancement Tool
-============================================================================================
+
 
 **A Python-based Image Enhancement Utility**
 
